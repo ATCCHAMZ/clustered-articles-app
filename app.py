@@ -52,7 +52,7 @@ st.markdown("""
 # Navbar
 st.markdown("""
     <div class="navbar">
-        <h1>📰 Zimbabwe News Clustered by Topic</h1>
+        <h1>📰 Zimbabwe🗞💥 News Clustered by Topic</h1>
     </div>
 """, unsafe_allow_html=True)
 
